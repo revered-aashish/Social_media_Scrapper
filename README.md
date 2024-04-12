@@ -41,17 +41,5 @@
     python instagram.py -h
     ```
     Note: Pinterest, Medium and Twitter script doesn't need browser. Just use it like ```python pinterest.py username```
-## Tech
 
-- [chromedriver](https://chromedriver.chromium.org) or [gecko Driver](https://github.com/mozilla/geckodriver/releases)
-- [selenium](https://selenium-python.readthedocs.io/installation.html)
-- [fake-headers](https://pypi.org/project/fake-headers/)
-- [wedriver_manager](https://pypi.org/project/webdriver-manager/)
-
-
-
-
-## LICENSE
-
-### Apache License 2.0
 
