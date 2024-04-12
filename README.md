@@ -9,7 +9,6 @@
 * Instagram
 * Reddit
 * TikTok
-* Medium
 * Quora
 * Pinterest
 * Github
